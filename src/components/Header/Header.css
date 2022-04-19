@@ -1,0 +1,8 @@
+.header a  {
+     margin-right: 15px;
+     text-decoration: none;
+}
+
+.header li {
+    list-style-type: none;
+}
